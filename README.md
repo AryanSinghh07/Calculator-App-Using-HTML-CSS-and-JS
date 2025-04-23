@@ -1,6 +1,6 @@
 # Calculator App
 
-![Calculator Preview](./f36cf78c-8e0a-44c0-864e-73c33a94f524.png)
+![Image](https://github.com/user-attachments/assets/c69f8072-37f2-45a0-affb-254b7b09a514)
 
 ## 🧮 Description
 
